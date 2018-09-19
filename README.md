@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+## Based on
+# https://coursetro.com/posts/code/144/A-Vuex-Tutorial-by-Example---Learn-Vue-State-Management
+
 ## Build Setup
 
 ``` bash
